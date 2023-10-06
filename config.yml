@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://kj42.xyz" # 修改这里
-      ApiKey: "globlewallpaperadmin" # 修改这里
+      ApiHost: "https://bn88.xyz" # 修改这里
+      ApiKey: "yangzhan@globlewallpaper.com" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
